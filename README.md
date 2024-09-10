@@ -38,6 +38,8 @@ Acesse a url http://localhost:4173 no navegador.
 ## Demo
 [Tic-Tac-Toe](https://tic-tac-toe-vuejs.onrender.com/)
 
+![](tic-tac-toe.gif)
+
 ## License
 Este projeto está sob a licença MIT, que permite o download, execução, alteração, redistribuição, tanto para uso privado como comercial do código fonte, desde que citado o autor. 
 
